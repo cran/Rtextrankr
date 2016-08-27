@@ -1,0 +1,15 @@
+75f092705ca8c3578afc3338ddef2651 *DESCRIPTION
+da45954de9199719cf530afb652faa7c *NAMESPACE
+195e588c17682c94d8c42fb445b286dc *R/Rtextrankr.R
+be80754fa369d11d908cf6ee996230d5 *README.md
+d0ddb8426a9ba6f8a82c755f7d8b1d9d *build/vignette.rds
+fcb60e9bd8c2e839692b41f7d8334e29 *inst/doc/Rtextrankr.Rmd
+d1d673e3294d19c9d13ce709cec4f5fe *inst/doc/Rtextrankr.html
+24d9c76276d99009f3ef7cf9de5c23b1 *man/build_graph.Rd
+5b545bcaff8bcd6c3e14314cf03637bf *man/co_occurence.Rd
+a8c748262c095a9beea13340372ff811 *man/get_sentences.Rd
+bb575326d17e80a20ee16b28e051bb73 *man/sentence2table.Rd
+ca4be7c5aafdb22a5b0057975329df5f *man/summarize.Rd
+ab18b0b1cc7bf8fee7bc7ee23fe973e8 *man/table2gset.Rd
+9649665116bc25dd7142e9ebd8718635 *man/xplit.Rd
+fcb60e9bd8c2e839692b41f7d8334e29 *vignettes/Rtextrankr.Rmd
